@@ -13,7 +13,7 @@ For this project,
 5. Carried out correlation analysis and produced infographics.
 6. Developed a machine learning algorithm that uses sentiment ratings to forecast the direction of stock prices.
 
-Technologies Used
+Technologies Used:
 Python, required libraries(praw, pandas, numpy, matplotlib, seaborn, sklearn, nltk (for sentiment analysis))
 
 Data Sources:
