@@ -17,7 +17,7 @@ Technologies Used:
 Python, required libraries(praw, pandas, numpy, matplotlib, seaborn, sklearn, nltk (for sentiment analysis))
 
 Data Sources:
-Reddit data via scraping (using PRAW or other scraping tools).
+Reddit data via scraping (using PRAW or other scraping tools),
 Stock price data from Yahoo Finance API or CSV files.
 
 Machine Learning Model:
